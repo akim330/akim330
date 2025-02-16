@@ -1,39 +1,49 @@
-## 👋 Hello
-**Data Scientist | ML Engineer | Game Dev Enthusiast**  
+# Hey there! I'm Andrew Kim 
+**Data Scientist · ML Enthusiast · Game Dev Dabbler**
 
-I’m a former Senior Data Scientist at J2 Health, where I built solutions that solved real-world healthcare challenges—like predicting regulatory adequacy determinations (99% accuracy!) and scaling data pipelines to handle 5x more clients. Outside of healthcare analytics, I’m passionate about **game development** (Unity, pixel art, procedural generation) and enjoy crafting interactive experiences.
+I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines. 
 
-## 🚀 What I’ve Done
-- **Healthcare Data Science:**  
-  - 🧠 **Network Adequacy Algorithm:** Achieved **99% accuracy**, unlocking **$6M ARR**  
-  - ⚙️ **End-to-End Data Pipelines:** Reduced client turnaround from **24 hours to 5–30 minutes**  
-  - 📊 **Provider Database Management:** Managed **2M+ records** with **DBT** & **Dagster**  
+Outside of data science, I love **game development** (Unity, pixel art, procedural generation) and occasionally compose music for fun.
 
-- **Machine Learning & MLOps:**  
-  - Built custom ML models (neural networks, spline interpolation)  
-  - Hands-on with **Google Cloud, BigQuery, SQL, DBT, Dagster, Python**  
+---
 
-- **Game Development:**  
-  - 🎮 **Unity Projects:** Procedural village generator, pixel-art platformers  
-  - 🎼 **Creative Work:** Music composition & 2D pixel art  
+## 💼 What I Work On
+- **Healthcare Analytics & Data Engineering**  
+  - Developed algorithms and pipelines to evaluate provider network coverage for health insurance plans  
+  - Built and automated data workflows using tools like **BigQuery, Python, DBT, Dagster, and SQL**
 
-## 📂 Featured Projects
-- 📊 [**Health Data Insights**](#) – Coming soon! Highlighting my healthcare pipeline approach  
-- 🏡 [**Procedural Village Generator**](#) – Unity + C# demo showcasing algorithmic world-building  
-- 🐦 [**Bird Tracking Web App**](#) – Flask + PostgreSQL project (full-stack showcase)  
+- **Machine Learning**  
+  - Used a variety of ML techniques (neural networks, interpolation methods, etc.) to handle **large datasets**  
+  - Interested in both model-building and MLOps best practices
 
-## 📚 A Bit More About Me
-- 🎓 **Academic Background:** Harvard Divinity School (M.Div., 3.98 GPA) & Harvard University (B.A. in Psychology, 3.99 GPA)  
-- 🏥 **Healthcare & Chaplaincy:** Interfaith chaplain intern at Dana-Farber Cancer Institute, supporting patients’ spiritual needs  
-- 📖 **Collaboration & Mentorship:** Former Teaching Fellow for Harvard’s CS181: Machine Learning  
+- **Game Development**  
+  - Experimenting with **procedural generation** and **pixel-art** environments in **Unity**  
+  - Occasionally produce **original music** for my prototypes
 
-## 💡 What I’m Doing Now
-- **Exploring Opportunities:** Open to full-time roles in data science, ML engineering, or data engineering.  
-- **Freelance & Side Projects:** Building Unity prototypes and experimenting with generative art.  
+---
 
-## 📬 Let’s Connect
-- 💼 **LinkedIn:** [Your LinkedIn URL]  
-- 📧 **Email:** akim330@gmail.com  
-- 🌐 **Website:** [Link to personal site if applicable]  
+## 🚀 Featured Projects
+- [**Healthcare Data Pipeline**](#)  
+  A simplified example of my approach to handling healthcare data, from ingestion to visualization. *(Link or description TBD)*
 
-I’m always open to discussing new roles, collaborations, or side projects. If you have an exciting challenge—particularly in healthcare analytics, MLOps, or gaming—I’d love to hear from you!  
+- [**Procedural Village Generator**](#)  
+  A Unity/C# project showcasing algorithmic generation of towns, terrain, and NPCs.
+
+- [**Bird Tracking Web App**](#)  
+  A Flask + PostgreSQL project to track bird sightings, featuring a minimal front-end interface.
+
+---
+
+## 🎓 About Me 
+- **Harvard Divinity School & Harvard Undergrad** – Balanced technical coursework with studies in philosophy and spirituality  
+- **Taught ML** as a Teaching Fellow for a machine learning course  
+- **Interfaith Chaplaincy** – Spent time supporting hospital patients, gaining a unique human-focused perspective on technology
+
+---
+
+## 🤝 Let’s Connect
+- **LinkedIn:** [Add Your Profile Here]  
+- **Email:** akim330@gmail.com  
+- **Website:** [If you have a personal site or blog]
+
+I’m always open to chatting about **data science, MLOps, or creative tech**. If any of that resonates with you—or you just want to talk about cool side projects—feel free to reach out!
