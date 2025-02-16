@@ -13,7 +13,7 @@ Outside of data science, I love **game development**, **making apps**, and **spo
   - Interested in both model-building and MLOps best practices
 
 - **Full-Stack Data & App Development**  
-  - Crafting data pipelines and interactive applications (like a **bird alert** web app)  
+  - Crafting data pipelines and interactive applications (my **bird alert** web app)  
   - Familiar with **BigQuery, Python, AWS, DBT, Dagster, SQL, Flask**, etc.
 
 - **Hobby Game Development**  
