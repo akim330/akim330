@@ -23,13 +23,13 @@ Outside of data science, I love **game development**, **making apps**, and **spo
 ---
 
 ## 🚀 Side Projects
-- [**Bird Alert Web App**](#)
-  A web application built with **Flask** (Python) to track and alert on various bird sightings
+- [**Bird Alert Web App**](https://www.birdalerts.info/)
+  A web application built with **Flask** (Python) to track and alert on various bird sightings (GitHub)
 
 - [**Anagram Snatch (Online Multiplayer)**](#)
-  A digital version of the word game **Anagram Snatch**, built twice (in Python and JavaScript) and hosted on **AWS** to enable real-time multiplayer gameplay.
+  A digital version of the word game **Anagram Snatch**, built twice (in [Python](https://github.com/akim330?tab=repositories) and [JavaScript](https://github.com/akim330/anagrams_js)) and hosted on **AWS** to enable real-time multiplayer gameplay.
 
-- [**Sports Analytics: NBA Scoring Visualization**](#)
+- [**Sports Analytics: NBA Scoring Visualization**](https://github.com/akim330/nba_scorers/blob/main/README.md)
   A **data visualization** project exploring top NBA scorers by efficiency and volume
 
 ---
