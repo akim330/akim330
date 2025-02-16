@@ -1,5 +1,5 @@
 # Hey there! I'm Andrew Kim 
-**Data Scientist · Engineer · Hobby Game Developer**
+**Data Scientist · ML Engineer · Hobby Game Developer**
 
 ![Andrew Kim Banner](assets/banner.png)
 
