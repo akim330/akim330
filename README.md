@@ -42,7 +42,7 @@ Outside of data science, I love **game development**, **making apps**, and **spo
 ---
 
 ## 🤝 Let’s Connect
--[[**LinkedIn:**]](https://www.linkedin.com/in/akim330/)
+- **LinkedIn:** https://www.linkedin.com/in/akim330/
 - **Email:** akim330@gmail.com
 
 I’m always open to chatting about **data science, app development, sports analytics, or game making**. If any of that resonates with you—or you just want to talk about cool side projects—feel free to reach out!
