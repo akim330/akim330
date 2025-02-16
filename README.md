@@ -1,49 +1,49 @@
 # Hey there! I'm Andrew Kim 
-**Data Scientist · ML Enthusiast · Game Dev Dabbler**
+**Data Scientist · End-to-End App Builder · Hobby Game Developer**
 
-I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines. 
+I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines.
 
-Outside of data science, I love **game development** (Unity, pixel art, procedural generation) and occasionally compose music for fun.
+Outside of data science, I love **game development**, **making apps**, and *sports analytics**.
 
 ---
 
 ## 💼 What I Work On
-- **Healthcare Analytics & Data Engineering**  
-  - Developed algorithms and pipelines to evaluate provider network coverage for health insurance plans  
-  - Built and automated data workflows using tools like **BigQuery, Python, DBT, Dagster, and SQL**
-
-- **Machine Learning**  
-  - Used a variety of ML techniques (neural networks, interpolation methods, etc.) to handle **large datasets**  
+- **Machine Learning & Analytics**  
+  - Using a variety of ML techniques on **large datasets**  
   - Interested in both model-building and MLOps best practices
 
-- **Game Development**  
-  - Experimenting with **procedural generation** and **pixel-art** environments in **Unity**  
-  - Occasionally produce **original music** for my prototypes
+- **Full-Stack Data & App Development**  
+  - Crafting data pipelines and interactive applications (like a **bird alert** web app)  
+  - Familiar with **BigQuery, Python, AWS, DBT, Dagster, SQL, Flask**, etc.
+
+- **Hobby Game Development**  
+  - Experimenting with **2D** and **pixel art** environments in **Unity**  
+  - Learning about **procedural generation** and multi-platform publishing
 
 ---
 
-## 🚀 Featured Projects
-- [**Healthcare Data Pipeline**](#)  
-  A simplified example of my approach to handling healthcare data, from ingestion to visualization. *(Link or description TBD)*
+## 🚀 Side Projects
+- [**Bird Alert Web App**](#)
+  A web application built with **Flask** (Python) to track and alert on various bird sightings. Hosted on the cloud for easy access.
 
-- [**Procedural Village Generator**](#)  
-  A Unity/C# project showcasing algorithmic generation of towns, terrain, and NPCs.
+- [**Anagram Snatch (Online Multiplayer)**](#)
+  A digital version of the word game **Anagram Snatch**, built twice (in Python and JavaScript) and hosted on **AWS** to enable real-time multiplayer gameplay.
 
-- [**Bird Tracking Web App**](#)  
-  A Flask + PostgreSQL project to track bird sightings, featuring a minimal front-end interface.
+- [**Sports Analytics: NBA Scoring Visualization**](#)
+  A **data visualization** project exploring top NBA scorers. Showcases data ingestion, cleaning, and interactive dashboards or charts.
 
 ---
 
-## 🎓 About Me 
-- **Harvard Divinity School & Harvard Undergrad** – Balanced technical coursework with studies in philosophy and spirituality  
-- **Taught ML** as a Teaching Fellow for a machine learning course  
-- **Interfaith Chaplaincy** – Spent time supporting hospital patients, gaining a unique human-focused perspective on technology
+## 🎓 About Me
+- **Harvard Divinity School & Harvard Undergrad** – Balanced technical work with studies in philosophy and spirituality  
+- Former **Teaching Fellow** for a machine learning course  
+- Experienced **Interfaith Chaplain** – a unique, human-centered perspective on tech
 
 ---
 
 ## 🤝 Let’s Connect
-- **LinkedIn:** [Add Your Profile Here]  
-- **Email:** akim330@gmail.com  
+- **LinkedIn:** [Add Your Profile Here]
+- **Email:** akim330@gmail.com
 - **Website:** [If you have a personal site or blog]
 
 I’m always open to chatting about **data science, MLOps, or creative tech**. If any of that resonates with you—or you just want to talk about cool side projects—feel free to reach out!
