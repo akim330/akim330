@@ -1,5 +1,5 @@
 # Hey there! I'm Andrew Kim 
-**Data Scientist · End-to-End App Builder · Hobby Game Developer**
+**Data Scientist · Engineer · Hobby Game Developer**
 
 I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines.
 
