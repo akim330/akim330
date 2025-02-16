@@ -3,7 +3,7 @@
 
 I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines.
 
-Outside of data science, I love **game development**, **making apps**, and *sports analytics**.
+Outside of data science, I love **game development**, **making apps**, and **sports analytics**.
 
 ---
 
@@ -30,7 +30,7 @@ Outside of data science, I love **game development**, **making apps**, and *spor
   A digital version of the word game **Anagram Snatch**, built twice (in Python and JavaScript) and hosted on **AWS** to enable real-time multiplayer gameplay.
 
 - [**Sports Analytics: NBA Scoring Visualization**](#)
-  A **data visualization** project exploring top NBA scorers. Showcases data ingestion, cleaning, and interactive dashboards or charts.
+  A **data visualization** project exploring top NBA scorers by efficiency and volume
 
 ---
 
