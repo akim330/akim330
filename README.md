@@ -1,7 +1,6 @@
-# Hey there! I'm Andrew Kim 
-**Data Scientist · ML Engineer · Hobby Game Developer**
+# Hello!
 
-<img src="assets/green_banner.png" alt="Andrew Kim Banner" style="width:100%;"/>
+![Andrew Kim Banner](assets/green_banner.png){ width=100% }
 
 I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines.
 
@@ -44,8 +43,7 @@ Outside of data science, I love **game development**, **making apps**, and *spor
 ---
 
 ## 🤝 Let’s Connect
-- **LinkedIn:** [Add Your Profile Here]
+-[[**LinkedIn:**]](https://www.linkedin.com/in/akim330/)
 - **Email:** akim330@gmail.com
-- **Website:** [If you have a personal site or blog]
 
-I’m always open to chatting about **data science, MLOps, or creative tech**. If any of that resonates with you—or you just want to talk about cool side projects—feel free to reach out!
+I’m always open to chatting about **data science, app development, sports analytics, or game making**. If any of that resonates with you—or you just want to talk about cool side projects—feel free to reach out!
