@@ -1,6 +1,8 @@
 # Hey there! I'm Andrew Kim 
 **Data Scientist · Engineer · Hobby Game Developer**
 
+![Andrew Kim Banner](assets/banner.png)
+
 I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines.
 
 Outside of data science, I love **game development**, **making apps**, and *sports analytics**.
