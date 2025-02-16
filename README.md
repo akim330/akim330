@@ -1,6 +1,5 @@
 # Hello!
 
-![Andrew Kim Banner](assets/green_banner.png){ width=100% }
 <img src="assets/green_banner.png" alt="Banner" style="width:100%;"/>
 
 
