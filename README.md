@@ -1,4 +1,4 @@
-# Hi there! I’m Andrew Kim  
+## 👋 Hello
 **Data Scientist | ML Engineer | Game Dev Enthusiast**  
 
 I’m a former Senior Data Scientist at J2 Health, where I built solutions that solved real-world healthcare challenges—like predicting regulatory adequacy determinations (99% accuracy!) and scaling data pipelines to handle 5x more clients. Outside of healthcare analytics, I’m passionate about **game development** (Unity, pixel art, procedural generation) and enjoy crafting interactive experiences.
