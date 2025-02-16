@@ -1,6 +1,6 @@
 # Hello!
 
-<img src="assets/green_banner.png" alt="Banner" style="width:100%;"/>
+<img src="./assets/green_banner.png" alt="Banner" style="width:100%;"/>
 
 
 I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines.
