@@ -37,7 +37,6 @@ Outside of data science, I love **game development**, **making apps**, and **spo
 ## 🎓 About Me
 - **Harvard Divinity School & Harvard Undergrad** – Balanced technical work with studies in psychology, religion, statistics, and computer science
 - Former **Teaching Fellow** for a machine learning course  
-- Experienced **Interfaith Chaplain** – a unique, human-centered perspective on tech
 
 ---
 
