@@ -1,5 +1,5 @@
 ## Hello! I'm Andrew Kim
-**Data Scientist · Data Engineer**
+**Data Scientist · Analytics Engineer**
 
 I'm passionate about building **practical, data-driven tools** that solve real problems—especially in **healthcare**. I enjoy tackling the entire data workflow: from cleaning and modeling to deploying and scaling pipelines.
 
